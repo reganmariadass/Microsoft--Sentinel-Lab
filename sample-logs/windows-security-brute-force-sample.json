@@ -1,0 +1,66 @@
+[
+  {
+    "TimeGenerated": "2026-05-29T09:10:00Z",
+    "EventID": 4625,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "FailureReason": "Unknown user name or bad password",
+    "Status": "0xC000006D",
+    "SubStatus": "0xC000006A"
+  },
+  {
+    "TimeGenerated": "2026-05-29T09:11:00Z",
+    "EventID": 4625,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "FailureReason": "Unknown user name or bad password",
+    "Status": "0xC000006D",
+    "SubStatus": "0xC000006A"
+  },
+  {
+    "TimeGenerated": "2026-05-29T09:12:00Z",
+    "EventID": 4625,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "FailureReason": "Unknown user name or bad password",
+    "Status": "0xC000006D",
+    "SubStatus": "0xC000006A"
+  },
+  {
+    "TimeGenerated": "2026-05-29T09:13:00Z",
+    "EventID": 4625,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "FailureReason": "Unknown user name or bad password",
+    "Status": "0xC000006D",
+    "SubStatus": "0xC000006A"
+  },
+  {
+    "TimeGenerated": "2026-05-29T09:14:00Z",
+    "EventID": 4625,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "FailureReason": "Unknown user name or bad password",
+    "Status": "0xC000006D",
+    "SubStatus": "0xC000006A"
+  },
+  {
+    "TimeGenerated": "2026-05-29T09:15:00Z",
+    "EventID": 4624,
+    "Account": "j.smith",
+    "IpAddress": "185.220.101.45",
+    "Computer": "WIN-SOC-01",
+    "LogonType": 3,
+    "LogonResult": "Successful logon after repeated failures"
+  }
+]
